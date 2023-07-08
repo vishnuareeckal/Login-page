@@ -201,6 +201,7 @@ form{
     .content{
         display: flex;
         flex-direction: row;
+        width: 80%;
     }
     .sign-up{
         display: none;
